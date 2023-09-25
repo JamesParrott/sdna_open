@@ -1,4 +1,11 @@
-# sDNA: Spatial Design Network Analysis
+# sDNA_lite: A light(er) fork of sdna_open, Spatial Design Network Analysis
+
+## Changes:
+ - No autocad dir
+ - No logo dir
+ - No R
+
+# Original readme:
 
 This is the open source fork of the formerly proprietary sDNA software created by Crispin Cooper on behalf of [Cardiff University](https://www.cardiff.ac.uk).  Alain Chiaradia was responsible for the initial idea, and Chris Webster for the initial funding and project mentoring. 
 
