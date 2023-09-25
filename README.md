@@ -1,5 +1,7 @@
 # sDNA_lite: A light(er) fork of sdna_open, Spatial Design Network Analysis
 
+Development now shifted to https://github.com/JamesParrott/sdna_lite (to leave the 200MB Git history on the full-fat repos).
+
 ## Changes:
  - No autocad dir
  - No logo dir
